@@ -57,3 +57,6 @@ plt.show()
 ## OUTPUT
 
 ![image](https://github.com/ManiKandan228/Mini-Project/assets/119160414/2acdcc36-d48a-4683-b5aa-4ff6a49f34fe)
+
+## RESULT
+From the training and testing of dataset on the model, a strong deduction can be made that on using Data Science model and ML model we can get the better accuracy in the House Price Prediction.
